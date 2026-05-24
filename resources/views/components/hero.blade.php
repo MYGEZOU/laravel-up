@@ -7,7 +7,7 @@
     <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center" data-aos="fade-up" data-aos-duration="1000">
         <h2 class="text-greenery font-bold tracking-widest uppercase mb-4 text-sm md:text-base">Halo, saya</h2>
         <h1 class="text-5xl md:text-7xl font-extrabold text-white mb-6 tracking-tight">
-            Darz Kine
+            Darzkine
         </h1>
         <h3 class="text-2xl md:text-4xl font-semibold text-gray-300 mb-8">
             Full Stack Developer & AI Enthusiast
