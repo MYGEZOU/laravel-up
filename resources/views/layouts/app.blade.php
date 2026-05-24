@@ -53,7 +53,7 @@
                 <!-- Desktop Menu -->
                 <nav class="hidden lg:flex space-x-6 xl:space-x-8" data-aos="fade-left">
                     <a href="/" class="text-gray-300 hover:text-greenery font-medium transition-colors relative group">
-                        Beranda
+                            nda
                         <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-greenery transition-all group-hover:w-full"></span>
                     </a>
                     <a href="{{ route('about') }}" class="text-gray-300 hover:text-greenery font-medium transition-colors relative group">
