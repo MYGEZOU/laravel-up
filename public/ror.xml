@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://darzkine.my.id/</title>
+  <link>https://darzkine.my.id/</link>
+
+<item>
+     <link>https://darzkine.my.id/</link>
+     <title>Portofolio Darz - Full Stack Developer</title>
+     <description>Portofolio digital Darz, seorang Full Stack Developer yang berfokus pada pengalaman digital luar biasa dan inovatif.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://darzkine.my.id/about</link>
+     <title>Tentang Darz</title>
+     <description>Pelajari lebih lanjut tentang Darz, keahlian teknis (Hard Skills) dan Soft Skills yang dimiliki, serta pengalaman sebagai Full Stack Developer.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://darzkine.my.id/projects</link>
+     <title>Karya Terbaik - Portofolio Darz</title>
+     <description>Kumpulan proyek inovatif dan aplikasi web dari Darz, menampilkan berbagai studi kasus yang menarik dan fungsional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://darzkine.my.id/testimonials</link>
+     <title>Testimoni &amp;amp;amp; Review - Portofolio Darz</title>
+     <description>Apa kata klien dan rekan kerja tentang pengalaman mereka bekerja sama dengan Darz.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://darzkine.my.id/blog</link>
+     <title>Blog &amp;amp;amp; Artikel - Portofolio Darz</title>
+     <description>Kumpulan tulisan, tutorial, dan artikel terkait web development, teknologi, serta cerita perjalanan karir saya.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://darzkine.my.id/contact</link>
+     <title>Hubungi Darz - Mari Berkolaborasi</title>
+     <description>Punya ide proyek hebat? Mari berkolaborasi! Hubungi Darz sekarang melalui formulir atau email pribadi.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
